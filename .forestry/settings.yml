@@ -5,6 +5,10 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
+  path: diagrams
+  label: diagrams
+  match: "**/*"
+- type: document
   path: portfolio/index.md
   label: Homepage
   templates:
