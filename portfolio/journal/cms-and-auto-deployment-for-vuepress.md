@@ -1,8 +1,7 @@
 ---
-title: Content management and auto deployment for VuePress
+title: Young enterpreneurs and the plastic waste problem in Kenya
 date: 2018-08-09T17:49:28.000+00:00
-excerpt: This works like expected, this text is only visible on the front page where
-  all the journal posts are listed
+excerpt: Planning and careful attention to detail is the only path to success
 
 ---
 # Young entrepreneurs in "the plastic box"
@@ -20,5 +19,3 @@ That's it, that's all. Enjoy your new site!
 1. Mentor / Mentee relationships around 
 2. Green infrastructure investment becomes opportunity
 3. Cultural momentum 
-
-## **Peacewater / SCD Hub clinics**
