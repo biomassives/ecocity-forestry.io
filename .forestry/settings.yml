@@ -7,7 +7,6 @@ sections:
 - type: document
   path: diagrams
   label: diagrams
-  match: "**/*"
 - type: document
   path: portfolio/index.md
   label: Homepage
