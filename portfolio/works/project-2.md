@@ -1,6 +1,6 @@
 ---
-title: Project two
-date: 2018-08-09 18:05:37 +0000
+title: Educational Goals
+date: 2018-08-09T18:05:37.000+00:00
 thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
 year: 2016
 description: subtitle
