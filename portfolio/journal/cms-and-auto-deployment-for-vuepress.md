@@ -19,3 +19,5 @@ That's it, that's all. Enjoy your new site!
 1. Mentor / Mentee relationships around 
 2. Green infrastructure investment becomes opportunity
 3. Cultural momentum 
+
+![](/upload/flowchart_mapping_objectives_to_options_classification.jpg)![](/upload/screenshot_2021-03-04-sustainable-community-development-hub-educational-video-library-sustainable-community-development-hub.png)![](/upload/peaceweater_logo_march_2021.png)
