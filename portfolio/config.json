@@ -1,8 +1,8 @@
 {
     "title": "Acme",
-    "description": "Creative Agency",
+    "description": "Educational non profit community organization",
     "logo": "/upload/logo.svg",
-    "footer": "Ⓒ Acme",
+    "footer": "Ⓒ 2021 Sustainable Community Development Hub",
     "favicon": "favicon-32x32.png",
     "navigation": [
       {
@@ -13,13 +13,13 @@
       },
       {
         "text": "Instagram",
-        "link": "https://www.instagram.com/its.nwa",
+        "link": "https://www.instagram.com/ecocity-learning-portal",
         "position": "left",
         "external": true
       },
       {
         "text": "Say hi!",
-        "link": "mailto:sayhi@mydomain.com",
+        "link": "mailto:greg@ecocity.com",
         "position": "right",
         "external": true
       },
